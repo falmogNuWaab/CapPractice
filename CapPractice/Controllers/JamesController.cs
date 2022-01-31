@@ -8,5 +8,7 @@ namespace CapPractice.Controllers
     public class JamesController
     {
         public string somestuff { get; set; } = "and things";
+
+        public int Id { get; set; } = 6;
     }
 }
