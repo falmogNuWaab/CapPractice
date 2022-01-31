@@ -10,5 +10,7 @@ namespace CapPractice.Controllers
         public string somestuff { get; set; } = "and things";
 
         public int Id { get; set; } = 6;
+
+        public string thisbetterwork{ get; set; } = "for real";
     }
 }
